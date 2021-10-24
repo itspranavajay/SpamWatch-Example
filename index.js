@@ -17,7 +17,7 @@ const pool = new Pool({
 const adminkey = ["Moe1234"];
 
 
-moe.get('/', (req, res) => res.send('Hello, world!'))
+moe.get('/', (req, res) => res.send('Hi'))
 
 moe.get('/jail', (req, res)=> {
 const lockup = req.query.lockup
