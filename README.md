@@ -1,2 +1,2 @@
-# Gwatch-Api
-Gwatch Api Code
+# SpamWatch-Example
+SpamWatch API Code Example 
