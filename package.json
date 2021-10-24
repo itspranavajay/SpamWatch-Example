@@ -1,0 +1,13 @@
+{
+  "name": "Spam Watch Example",
+  "version": "0.0.8",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MoeZilla",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.16.1",
+    "pg": "^8.5.1"
+  }
+}
